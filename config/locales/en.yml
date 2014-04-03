@@ -88,6 +88,7 @@ en:
     withdraw: Withdraw
     getstart: Get Start
     assets: Assets
+    my_assets: My Assets
 
   footer:
     about: About
